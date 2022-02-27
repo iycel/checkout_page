@@ -1,4 +1,4 @@
 
 # Checkout_Page
 
-[Form](checkout_app.gif)
+[checkout_app.gif](https://github.com/iycel/checkout_page/blob/master/checkout_app.gif)
